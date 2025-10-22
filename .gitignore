@@ -1,11 +1,16 @@
 .DS_Store
 
+logs/
+data/
+model/
+.gradio/
+
 !logs/.gitkeep
 !data/original_photos/.gitkeep
 !data/processed_photos/.gitkeep
-!data/model/.gitkeep
+!model/.gitkeep
 
-.gradio
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
