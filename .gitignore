@@ -10,7 +10,7 @@ model/
 !data/processed_photos/.gitkeep
 !model/.gitkeep
 
-
+train_dreambooth_lora.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
