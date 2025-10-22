@@ -5,6 +5,8 @@
 !data/processed_photos/.gitkeep
 !data/model/.gitkeep
 
+.gradio
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
