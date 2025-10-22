@@ -1,3 +1,10 @@
+.DS_Store
+
+!logs/.gitkeep
+!data/original_photos/.gitkeep
+!data/processed_photos/.gitkeep
+!data/model/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
